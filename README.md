@@ -31,8 +31,8 @@ Template Repo/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/template-repo.git
-cd template-repo
+git clone [https://github.com/your-username/template-repo.git](https://github.com/saurav-sabu/Template_Repo.git)
+cd Template_Repo
 ```
 
 ### 2. Initialize the setup
